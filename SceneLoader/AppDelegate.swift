@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  IntroBlender
 //
-//  Created by Javier Cuesta on 05.06.22.
-//
+
 
 import Cocoa
 

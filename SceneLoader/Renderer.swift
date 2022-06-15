@@ -2,8 +2,7 @@
 //  Renderer.swift
 //  IntroBlender
 //
-//  Created by Javier Cuesta on 05.06.22.
-//
+
 
 // Our platform independent renderer class
 
